@@ -1,6 +1,6 @@
 # Yagom iOS Career Starter Camp 3rd(21.05~21.11)
 
-##디자인 패턴 코스 제작 기여
+## 디자인 패턴 코스 제작 기여
 
 [💡 바로가기](https://yagom.net/courses/design-pattern-in-swift/)
 
